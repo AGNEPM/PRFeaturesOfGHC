@@ -1,0 +1,6 @@
+1) Parallel Execution
+2) Cross Browser testing
+3) Retry
+4) Cross Platform support
+5) Robust UI test automation
+6) User Visible locators
